@@ -1,9 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/channel/UC0xfh3DfC2zuOs4neFhVnPw)
-[![Linkedin Badge](https://img.shields.io/badge/-sunil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunil--01629954/)](https://www.linkedin.com/in/sunil--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-sunil-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-sunil-yellow)](https://stackoverflow.com/users/3687251/sunil-)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-sunilp-red)](https://www.youtube.com/channel/UC0xfh3DfC2zuOs4neFhVnPw)
 
 I'm a reacat developer.
 The crossover between design and programming has always been of interest to me. I know html, Css,  Java Script.
